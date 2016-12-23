@@ -1,0 +1,13 @@
+.all {
+  width: 60%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.list {
+  font-weight: bold;
+}
+
+.photo {
+  text-align: center;
+}
